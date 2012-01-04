@@ -15,7 +15,6 @@ Gem::Specification.new do |s|
   # = MANIFEST =
   s.files = %w[
     COPYING
-    Gemfile
     README.md
     Rakefile
     TEMPLATES.md
